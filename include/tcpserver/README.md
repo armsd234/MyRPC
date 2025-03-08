@@ -31,40 +31,6 @@ kama-webserver/
 └── README.md # 项目说明文件
 ```
 
-## 前置工具准备
-
-安装基本工具
-
-
-## 编译指令
-1. 克隆项目：
-```bash
-   git clone https://github.com/youngyangyang04/kama-webserver.git
-   cd kama-webserver
-```
-
-2. 创建构建目录并编译：
-
-```bash
-   mkdir build &&
-   cd build &&
-   cmake .. &&
-   make -j ${nproc}
-```
-
-3. 在构建完成后，先进入到bin文件
-
-```bash
-cd bin
-```
-
-4. 启动项目可执行程序main
-
-```bash
-./main 
-```
-
-
 ## 功能模块划分
 
 ### 网络模块
