@@ -35,10 +35,6 @@ kama-webserver/
 
 安装基本工具
 
-```bash
-sudo apt-get update
-sudo apt-get install -y wget cmake build-essential unzip git
-```
 
 ## 编译指令
 1. 克隆项目：
@@ -67,6 +63,7 @@ cd bin
 ```bash
 ./main 
 ```
+
 
 ## 功能模块划分
 
