@@ -1,0 +1,12 @@
+/home/cc/Desktop/ccspace/kama-webserver/build/CMakeFiles/rebuild_cache.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/CMakeFiles/edit_cache.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/src/CMakeFiles/rebuild_cache.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/src/CMakeFiles/edit_cache.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/src/CMakeFiles/main.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/src/CMakeFiles/src_lib.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/memory/CMakeFiles/rebuild_cache.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/memory/CMakeFiles/edit_cache.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/memory/CMakeFiles/memory_lib.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/log/CMakeFiles/rebuild_cache.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/log/CMakeFiles/edit_cache.dir
+/home/cc/Desktop/ccspace/kama-webserver/build/log/CMakeFiles/log_lib.dir

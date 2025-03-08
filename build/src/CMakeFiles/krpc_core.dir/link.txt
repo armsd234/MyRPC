@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkrpc_core.a  CMakeFiles/krpc_core.dir/Rpcchannel.cc.o CMakeFiles/krpc_core.dir/Rpccontroller.cc.o CMakeFiles/krpc_core.dir/Rpcheader.pb.cc.o CMakeFiles/krpc_core.dir/Rpcprovider.cc.o CMakeFiles/krpc_core.dir/Zk.cc.o
+/usr/bin/ranlib libkrpc_core.a

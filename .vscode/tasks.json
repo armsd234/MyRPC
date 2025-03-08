@@ -1,0 +1,60 @@
+{
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "make RPCclient",
+            "command": "make client",
+            "args": [
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/build/"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务。"
+        },
+        {
+            "type": "cppbuild",
+            "label": "make RPCserver",
+            "command": "make server",
+            "args": [
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/build/"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务。"
+        },
+        {
+            "type": "cppbuild",
+            "label": "make testzk",
+            "command": "g++ testzk.cc -g -o testzk -lzookeeper_mt",
+            "args": [
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/example/"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "调试器生成的任务。"
+        }
+    ],
+    
+    "version": "2.0.0"
+}

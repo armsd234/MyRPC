@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tcpserver/include/memoryPool.h
+cassert
+-
+cstdint
+-
+iostream
+-
+memory
+-
+mutex
+-
+
+/home/cc/Desktop/ccspace/MyRPC/include/tcpserver/memory/memoryPool.cc
+memoryPool.h
+/home/cc/Desktop/ccspace/MyRPC/include/tcpserver/memory/memoryPool.h
+

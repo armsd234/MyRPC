@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/server.dir/Kserver.cc.o CMakeFiles/server.dir/__/user.pb.cc.o  -o ../../../bin/server  -Wl,-rpath,/home/cc/Desktop/ccspace/MyRPC/lib ../../src/libkrpc_core.a -lprotobuf -lpthread -lzookeeper_mt ../../include/tcpserver/src/libsrc_lib.a -lpthread ../../../lib/liblog_lib.so ../../include/tcpserver/memory/libmemory_lib.a 
